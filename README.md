@@ -3,5 +3,10 @@ This is our final project for the Data Structures 2 course at Habib University. 
 
 
 How to compile: g++./src/*.cpp -o project
+
+
 How to run: .\project.exe
+
+
+
 Group Members: Syeda Samah Daniyal, Muneeba Badar, Fakeha Faisal, Eman Fatima, Qurba Mushtaque.
